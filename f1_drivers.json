@@ -1,0 +1,22 @@
+{
+    "VER": {"id": 1, "name": "Max Verstappen", "team": "Red Bull Racing"},
+    "SAR": {"id": 2, "name": "Logan Sargeant", "team": "Williams"},
+    "RIC": {"id": 3, "name": "Daniel Ricciardo", "team": "RB"},
+    "NOR": {"id": 4, "name": "Lando Norris", "team": "McLaren"},
+    "GAS": {"id": 10, "name": "Pierre Gasly", "team": "Alpine"},
+    "PER": {"id": 11, "name": "Sergio Perez", "team": "Red Bull Racing"},
+    "ALO": {"id": 14, "name": "Fernando Alonso", "team": "Aston Martin Racing"},
+    "LEC": {"id": 16, "name": "Charles Leclerc", "team": "Ferrari"},
+    "STR": {"id": 18, "name": "Lance Stroll", "team": "Aston Martin Racing"},
+    "MAG": {"id": 20, "name": "Kevin Magnussen", "team": "Haas"},
+    "TSU": {"id": 22, "name": "Yuki Tsunoda", "team": "RB"},
+    "ALB": {"id": 23, "name": "Alex Albon", "team": "Williams"},
+    "ZHO": {"id": 24, "name": "Zhou Guanyu", "team": "Kick Sauber"},
+    "HUL": {"id": 27, "name": "Niko Hulkenberg", "team": "Haas"},
+    "OCO": {"id": 31, "name": "Esteban Ocon", "team": "Alpine"},
+    "HAM": {"id": 44, "name": "Lewis Hamilton", "team": "Mercedes"},
+    "SAI": {"id": 55, "name": "Carlos Sainz", "team": "Ferrari"},
+    "RUS": {"id": 63, "name": "George Russell", "team": "Mercedes"},
+    "BOT": {"id": 77, "name": "Valtteri Bottas", "team": "Kick Sauber"},
+    "PIA": {"id": 81, "name": "Oscar Piastri", "team": "McLaren"}
+}

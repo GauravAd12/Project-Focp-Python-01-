@@ -1,0 +1,119 @@
+{
+    "grand_prix_location": "Dewsbury",
+    "fastest_driver": "PIA",
+    "fastest_time": 98.058,
+    "driver_details": [
+        {
+            "code": "SAI",
+            "name": "Carlos Sainz",
+            "team": "Ferrari",
+            "fastest_time": 100.319,
+            "average_time": 108.5055625
+        },
+        {
+            "code": "STR",
+            "name": "Lance Stroll",
+            "team": "Aston Martin Racing",
+            "fastest_time": 100.954,
+            "average_time": 109.48426666666666
+        },
+        {
+            "code": "MAG",
+            "name": "Kevin Magnussen",
+            "team": "Haas",
+            "fastest_time": 102.053,
+            "average_time": 109.322125
+        },
+        {
+            "code": "NOR",
+            "name": "Lando Norris",
+            "team": "McLaren",
+            "fastest_time": 98.443,
+            "average_time": 104.8815
+        },
+        {
+            "code": "GAS",
+            "name": "Pierre Gasly",
+            "team": "Alpine",
+            "fastest_time": 101.516,
+            "average_time": 110.4787857142857
+        },
+        {
+            "code": "ZHO",
+            "name": "Zhou Guanyu",
+            "team": "Kick Sauber",
+            "fastest_time": 110.26,
+            "average_time": 116.1576
+        },
+        {
+            "code": "PER",
+            "name": "Sergio Perez",
+            "team": "Red Bull Racing",
+            "fastest_time": 98.441,
+            "average_time": 107.83899999999998
+        },
+        {
+            "code": "RIC",
+            "name": "Daniel Ricciardo",
+            "team": "RB",
+            "fastest_time": 101.552,
+            "average_time": 110.14922222222222
+        },
+        {
+            "code": "VER",
+            "name": "Max Verstappen",
+            "team": "Red Bull Racing",
+            "fastest_time": 103.711,
+            "average_time": 108.5583
+        },
+        {
+            "code": "TSU",
+            "name": "Yuki Tsunoda",
+            "team": "RB",
+            "fastest_time": 100.001,
+            "average_time": 107.05327272727273
+        },
+        {
+            "code": "RUS",
+            "name": "George Russell",
+            "team": "Mercedes",
+            "fastest_time": 99.069,
+            "average_time": 106.57344444444443
+        },
+        {
+            "code": "PIA",
+            "name": "Oscar Piastri",
+            "team": "McLaren",
+            "fastest_time": 98.058,
+            "average_time": 104.12557142857143
+        },
+        {
+            "code": "OCO",
+            "name": "Esteban Ocon",
+            "team": "Alpine",
+            "fastest_time": 100.205,
+            "average_time": 111.097875
+        },
+        {
+            "code": "HAM",
+            "name": "Lewis Hamilton",
+            "team": "Mercedes",
+            "fastest_time": 99.328,
+            "average_time": 102.44933333333334
+        },
+        {
+            "code": "SAR",
+            "name": "Logan Sargeant",
+            "team": "Williams",
+            "fastest_time": 106.766,
+            "average_time": 109.72785714285715
+        },
+        {
+            "code": "LEC",
+            "name": "Charles Leclerc",
+            "team": "Ferrari",
+            "fastest_time": 103.218,
+            "average_time": 108.76020000000001
+        }
+    ]
+}

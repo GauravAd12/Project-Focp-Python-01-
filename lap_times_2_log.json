@@ -1,0 +1,119 @@
+{
+    "grand_prix_location": "Dewsbury",
+    "fastest_driver": "HAM",
+    "fastest_time": 98.0,
+    "driver_details": [
+        {
+            "code": "BOT",
+            "name": "Valtteri Bottas",
+            "team": "Kick Sauber",
+            "fastest_time": 102.17,
+            "average_time": 109.06614285714285
+        },
+        {
+            "code": "RUS",
+            "name": "George Russell",
+            "team": "Mercedes",
+            "fastest_time": 98.297,
+            "average_time": 105.23233333333333
+        },
+        {
+            "code": "MAG",
+            "name": "Kevin Magnussen",
+            "team": "Haas",
+            "fastest_time": 105.123,
+            "average_time": 113.96366666666667
+        },
+        {
+            "code": "HAM",
+            "name": "Lewis Hamilton",
+            "team": "Mercedes",
+            "fastest_time": 98.0,
+            "average_time": 102.83733333333333
+        },
+        {
+            "code": "STR",
+            "name": "Lance Stroll",
+            "team": "Aston Martin Racing",
+            "fastest_time": 103.698,
+            "average_time": 109.30316666666666
+        },
+        {
+            "code": "ALO",
+            "name": "Fernando Alonso",
+            "team": "Aston Martin Racing",
+            "fastest_time": 108.53,
+            "average_time": 112.492
+        },
+        {
+            "code": "SAR",
+            "name": "Logan Sargeant",
+            "team": "Williams",
+            "fastest_time": 106.174,
+            "average_time": 114.19300000000001
+        },
+        {
+            "code": "NOR",
+            "name": "Lando Norris",
+            "team": "McLaren",
+            "fastest_time": 104.339,
+            "average_time": 109.89750000000001
+        },
+        {
+            "code": "PIA",
+            "name": "Oscar Piastri",
+            "team": "McLaren",
+            "fastest_time": 103.54,
+            "average_time": 109.2836
+        },
+        {
+            "code": "TSU",
+            "name": "Yuki Tsunoda",
+            "team": "RB",
+            "fastest_time": 101.488,
+            "average_time": 107.122
+        },
+        {
+            "code": "GAS",
+            "name": "Pierre Gasly",
+            "team": "Alpine",
+            "fastest_time": 100.62,
+            "average_time": 107.34225
+        },
+        {
+            "code": "PER",
+            "name": "Sergio Perez",
+            "team": "Red Bull Racing",
+            "fastest_time": 99.536,
+            "average_time": 105.4878
+        },
+        {
+            "code": "HUL",
+            "name": "Niko Hulkenberg",
+            "team": "Haas",
+            "fastest_time": 104.839,
+            "average_time": 110.9045
+        },
+        {
+            "code": "OCO",
+            "name": "Esteban Ocon",
+            "team": "Alpine",
+            "fastest_time": 104.293,
+            "average_time": 110.44525
+        },
+        {
+            "code": "ALB",
+            "name": "Alex Albon",
+            "team": "Williams",
+            "fastest_time": 109.956,
+            "average_time": 113.15025
+        },
+        {
+            "code": "ZHO",
+            "name": "Zhou Guanyu",
+            "team": "Kick Sauber",
+            "fastest_time": 102.757,
+            "average_time": 111.48575
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "grand_prix_location": "York",
+    "fastest_driver": "HAM",
+    "fastest_time": 98.931,
+    "driver_details": [
+        {
+            "code": "PER",
+            "name": "Sergio Perez",
+            "team": "Red Bull Racing",
+            "fastest_time": 99.047,
+            "average_time": 109.42933333333333
+        },
+        {
+            "code": "HUL",
+            "name": "Niko Hulkenberg",
+            "team": "Haas",
+            "fastest_time": 103.136,
+            "average_time": 110.20366666666666
+        },
+        {
+            "code": "RIC",
+            "name": "Daniel Ricciardo",
+            "team": "RB",
+            "fastest_time": 104.378,
+            "average_time": 111.49766666666666
+        },
+        {
+            "code": "ALB",
+            "name": "Alex Albon",
+            "team": "Williams",
+            "fastest_time": 102.956,
+            "average_time": 106.563
+        },
+        {
+            "code": "LEC",
+            "name": "Charles Leclerc",
+            "team": "Ferrari",
+            "fastest_time": 100.279,
+            "average_time": 110.70049999999999
+        },
+        {
+            "code": "MAG",
+            "name": "Kevin Magnussen",
+            "team": "Haas",
+            "fastest_time": 105.123,
+            "average_time": 112.221
+        },
+        {
+            "code": "TSU",
+            "name": "Yuki Tsunoda",
+            "team": "RB",
+            "fastest_time": 101.389,
+            "average_time": 109.48266666666666
+        },
+        {
+            "code": "OCO",
+            "name": "Esteban Ocon",
+            "team": "Alpine",
+            "fastest_time": 103.189,
+            "average_time": 112.19333333333333
+        },
+        {
+            "code": "NOR",
+            "name": "Lando Norris",
+            "team": "McLaren",
+            "fastest_time": 102.308,
+            "average_time": 108.88383333333333
+        },
+        {
+            "code": "ALO",
+            "name": "Fernando Alonso",
+            "team": "Aston Martin Racing",
+            "fastest_time": 103.003,
+            "average_time": 108.52283333333334
+        },
+        {
+            "code": "RUS",
+            "name": "George Russell",
+            "team": "Mercedes",
+            "fastest_time": 101.18,
+            "average_time": 106.42066666666666
+        },
+        {
+            "code": "SAR",
+            "name": "Logan Sargeant",
+            "team": "Williams",
+            "fastest_time": 108.796,
+            "average_time": 115.8745
+        },
+        {
+            "code": "PIA",
+            "name": "Oscar Piastri",
+            "team": "McLaren",
+            "fastest_time": 102.547,
+            "average_time": 106.48616666666668
+        },
+        {
+            "code": "ZHO",
+            "name": "Zhou Guanyu",
+            "team": "Kick Sauber",
+            "fastest_time": 103.875,
+            "average_time": 109.12349999999999
+        },
+        {
+            "code": "HAM",
+            "name": "Lewis Hamilton",
+            "team": "Mercedes",
+            "fastest_time": 98.931,
+            "average_time": 103.081
+        },
+        {
+            "code": "VER",
+            "name": "Max Verstappen",
+            "team": "Red Bull Racing",
+            "fastest_time": 101.167,
+            "average_time": 107.95316666666668
+        },
+        {
+            "code": "GAS",
+            "name": "Pierre Gasly",
+            "team": "Alpine",
+            "fastest_time": 100.62,
+            "average_time": 105.60683333333333
+        },
+        {
+            "code": "BOT",
+            "name": "Valtteri Bottas",
+            "team": "Kick Sauber",
+            "fastest_time": 106.184,
+            "average_time": 113.16466666666666
+        },
+        {
+            "code": "SAI",
+            "name": "Carlos Sainz",
+            "team": "Ferrari",
+            "fastest_time": 110.353,
+            "average_time": 114.74433333333333
+        },
+        {
+            "code": "STR",
+            "name": "Lance Stroll",
+            "team": "Aston Martin Racing",
+            "fastest_time": 103.084,
+            "average_time": 109.973
+        }
+    ]
+}
